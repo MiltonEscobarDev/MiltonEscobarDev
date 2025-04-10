@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<img src="banner.png">
 
 <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
